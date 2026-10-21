@@ -1,0 +1,7 @@
+{
+  "name": "MagangKuy - High School Internship Platform & Flutter Codebase Hub",
+  "description": "Production-ready Flutter & Firebase architecture, code generator, and interactive mobile preview for MagangKuy (SMA/SMK internship finder).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
